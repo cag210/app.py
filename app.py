@@ -1,5 +1,6 @@
 
 import streamlit as st
+import scikit-learn
 #from textblob import TextBlob
 #import plotly.graph_objects as go
 import pandas as pd
