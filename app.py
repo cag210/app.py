@@ -1,3 +1,5 @@
+### The objective of this application is to predict LinkedIn users based on user input.
+
 import streamlit as st
 from textblob import TextBlob
 import plotly.graph_objects as go
